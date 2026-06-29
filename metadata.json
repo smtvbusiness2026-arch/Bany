@@ -1,0 +1,6 @@
+{
+  "name": "إدارة الاشتراكات",
+  "description": "برنامج لإدارة الاشتراكات ومواعيد التجديد التلقائي ومجموع المبالغ وحسابات البنوك وسهولة تتبع المصاريف.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

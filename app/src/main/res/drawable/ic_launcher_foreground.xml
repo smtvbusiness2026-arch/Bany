@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Renewal Loop Arrow (Left semi-circle) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M38,32 C26,39 20,53 23,67 C26,81 37,91 51,92 C53,92 55,90 55,88 C55,86 53,84 51,84 C41,83 32,75 29,64 C26,53 31,41 41,35 L41,41 C41,42 42,43 43,43 C44,43 45,42 45,41 L45,30 C45,29 44,28 43,28 L32,28 C31,28 30,29 30,30 C30,31 31,32 32,32 L38,32 Z" />
+    <!-- Outer Renewal Loop Arrow (Right semi-circle) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M70,76 C82,69 88,55 85,41 C82,27 71,17 57,16 C55,16 53,18 53,20 C53,22 55,24 57,24 C67,25 76,33 79,44 C82,55 77,67 67,73 L67,67 C67,66 66,65 65,65 C64,65 63,66 63,67 L63,78 C63,79 64,80 65,80 L76,80 C77,80 78,79 78,78 C78,77 77,76 76,76 L70,76 Z" />
+    <!-- Credit Card Centerpiece -->
+    <!-- Card Body -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M34,38 H74 C78.4,38 82,41.6 82,46 V62 C82,66.4 78.4,70 74,70 H34 C29.6,70 26,66.4 26,62 V46 C26,41.6 29.6,38 34,38 Z" />
+    <!-- Card Magnetic Stripe -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M26,43 H82 V48 H26 Z" />
+    <!-- Chip / Accent -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M31,52 H39 V58 H31 Z" />
+    <!-- Card Small Dot Accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,55 A5,5 0 1,0 65,55.1 Z" />
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M71,55 A5,5 0 1,0 71,55.1 Z" />
+</vector>
